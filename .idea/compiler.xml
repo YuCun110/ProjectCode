@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="DB_Project" target="1.8" />
       <module name="Flume_Test" target="1.8" />
@@ -9,5 +10,19 @@
       <module name="Kafka_Test" target="1.8" />
       <module name="ProjectCode" target="1.8" />
     </bytecodeTargetLevel>
+=======
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Flume_Test" />
+        <module name="Kafka_Test" />
+        <module name="DB_Project" />
+        <module name="Hive_Test" />
+        <module name="HBase_Test" />
+      </profile>
+    </annotationProcessing>
+>>>>>>> parent of c7caba3... Revert "第一阶段代码1.0"
   </component>
 </project>
