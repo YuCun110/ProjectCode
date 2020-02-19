@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="DB_Project" target="1.8" />
+      <module name="Flume_Test" target="1.8" />
+      <module name="HBase_Test" target="1.8" />
+      <module name="Hive_Test" target="1.8" />
+      <module name="Kafka_Test" target="1.8" />
+      <module name="ProjectCode" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
